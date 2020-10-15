@@ -1,4 +1,4 @@
-#TableBooker
+#TableBooker#
 
 TableBooker is an Android Studio application that allows the user to book seats at a restaurant with other specifications.
 This application also the below functionalities:
